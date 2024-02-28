@@ -118,8 +118,8 @@ nominate someone to take their place.
 TC members will be added as admin's on the Github orgs, npm orgs, and other resources as
 necessary to be effective in the role.
 
-To remain "active" a TC member should have participation within the last 6 months and miss
-no more than three consecutive TC meetings. Members who do not meet this are expected to step down.
+To remain "active" a TC member should have participation within the last 12 months and miss
+no more than six consecutive TC meetings. Members who do not meet this are expected to step down.
 If A TC member does not step down, an issue can be opened in the discussions repo to move them
 to inactive status. TC members who step down or are removed due to inactivity will be moved
 into inactive status.
